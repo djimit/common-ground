@@ -2,7 +2,7 @@
   "name": "common-ground",
   "description": "Common Ground compliance checker voor gemeentelijke IT. Toetst implementaties aan Common Ground principes: data bij de bron, API-first, open standaarden, gescheiden applicatie- en datalaag. Bevat GEMMA-koppeling en voorbeeldimplementaties (Haven, NL Design System).",
   "version": "0.1.0",
-  "author": { "name": "Dennis Landman", "email": "dennis@djimit.nl" },
+  "author": "Dennis Landman",
   "license": "MIT",
   "keywords": ["common-ground", "gemeenten", "GEMMA", "data-bij-de-bron", "API-first", "open-standaarden", "NLDS", "Haven", "informatiekundige-kern", "procesinrichting", "overheid", "digitale-transformatie"]
 }
